@@ -4,7 +4,7 @@
   </a>
 </p>
 
-y### Hello there! 👋 I'm PythonistaLogic
+
 
 Welcome to my GitHub space! I am a passionate beginner programmer based in Pakistan, currently learning the fundamentals of software development and Python programming. My goal is to build strong coding logic and step into the world of AI development 🚀.
 
