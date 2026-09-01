@@ -1,4 +1,7 @@
-<h1 align="center">✨ Hello World! I'm PythonistaLogic 👋</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=✨+Hello+World!+👋;I+am+PythonistaLogic;Welcome+to+my+space+!🚀" alt="Typing SVG" />
+</p>
+
 
 Welcome to my GitHub space! I am a passionate beginner programmer based in Pakistan, currently learning the fundamentals of software development and Python programming. My goal is to build strong coding logic and step into the world of AI development 🚀.
 
